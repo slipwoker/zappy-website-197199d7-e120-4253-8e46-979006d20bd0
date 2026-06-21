@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://f-197199d7.zappy5.app
+https://example.com
 פינה הפקה מבית F+ היא הבית של הזמרים שרוצים להפיק מוזיקה ברמה הגבוהה ביותר. מיועד למתחילים ולמקצוענים כאחד — היכנסו וגלו איך להפוך רעיון להקלטה מושלמת.
 
 ### שירותים
-https://f-197199d7.zappy5.app/services
+https://example.com/services
 מחפשים את המחשב המושלם להפקה או הדרכה צעד אחר צעד? השירותים שלנו ב-F+ מעניקים לזמרים ליווי מלא, משלב הרעיון ועד למיקס הסופי. התחילו ליצור איתנו עוד היום.
 
 ### אודות
-https://f-197199d7.zappy5.app/about
+https://example.com/about
 ב-F+ אנחנו מאמינים שלכל זמר מגיע מרחב יצירה משלו. גלו את הסיפור מאחורי פינה הפקה, החזון שלנו, והתשוקה להפוך מוזיקה למציאות. הצטרפו למשפחת היוצרים שלנו.
 
 ### צור קשר
-https://f-197199d7.zappy5.app/contact
+https://example.com/contact
 מוכנים להפיק את השיר הבא שלכם? השאירו פרטים ונחזור אליכם עם כל מה שצריך להפקה מוזיקלית מושלמת. ב-F+ מחכים לשמוע את הקול שלכם — צרו קשר עכשיו.
 
 ### תודה על פנייתך
-https://f-197199d7.zappy5.app/thank-you
+https://example.com/thank-you
 F+ - תודה על פנייתך
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://f-197199d7.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://f-197199d7.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://f-197199d7.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://f-197199d7.zappy5.app/contact
-- Endpoint: https://f-197199d7.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -76,6 +76,6 @@ Music Production
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://f-197199d7.zappy5.app/sitemap.xml
-- Robots: https://f-197199d7.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://f-197199d7.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
